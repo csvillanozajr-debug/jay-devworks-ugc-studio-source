@@ -1,0 +1,6 @@
+{
+  "name": "Jay DevWorks UGC Studio - Portfolio",
+  "description": "Short-form product videos and UGC for AI tools, SaaS products, mobile apps, and tech brands by Jay DevWorks UGC Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
